@@ -3,10 +3,10 @@ public class OOPSBannerApp {
         System.out.println("OOPS IN LETTERS: ");
 		System.out.println("OOPS");
 		System.out.println("OOPS IN STAR PATTERN:");
-		System.out.println("** ** ** ***");
-		System.out.println("*   * *   * *   * *");
-		System.out.println("*   * *   * ** ***");
-		System.out.println("*   * *   * *        *");
-		System.out.println("** ** *     **");
+		System.out.println("*****  ***** ***** ****");
+		System.out.println("*   *  *   * *   * *");
+		System.out.println("*   *  *   * ***** ****");
+		System.out.println("*   *  *   * *        *");
+		System.out.println("*****  ***** *     ****");
     }
 }
